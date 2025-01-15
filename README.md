@@ -1,0 +1,1 @@
+A responsive website design for a coffee shop, built using HTML, CSS, and JavaScript. This project showcases modern web design techniques and provides a user-friendly interface for coffee enthusiasts.
